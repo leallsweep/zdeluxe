@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <sstream>
+#include <cmath>
 
 int main() {
     std::string line;
@@ -26,6 +27,7 @@ int main() {
         switch(op) {
             case '+': std::cout << a + b << std::endl; break;
             case '-': std::cout << a - b << std::endl; break;
+            case '^': std::cout << pow(a, b) << std::endl; break;
             case '*': std::cout << a * b << std::endl; break;
             case '/': 
                 if (b == 0) std::cout << "Cannot divide by zero!" << std::endl;

@@ -56,6 +56,7 @@ zdl proudly supports the following operations:
 |-----------|--------|-----------|-------|
 | Addition | `+` | ✅ | Groundbreaking |
 | Subtraction | `-` | ✅ | Also groundbreaking |
+| Raise to power | `^` | ✅ | Mega groundbreaking |
 | Multiplication | `*` | ✅ | Still groundbreaking |
 | Division | `/` | ✅ | Division by zero not included, sorry, physics said no |
 | Existential dread | N/A | ✅ | Free with every use |
