@@ -120,6 +120,12 @@ cmake --build . --config Release
 zdl.exe
 ```
 
+Also, you can just run
+```bash
+python scripts/build.py
+```
+but, you need to install Python3
+
 ### Build Options
 
 | Option | Default | Description |
